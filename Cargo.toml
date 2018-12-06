@@ -1,0 +1,9 @@
+[package]
+name = "mursten-ggez-backend"
+version = "0.1.0"
+authors = ["Nikita Zdanovitch <nzdanovitch@gmail.com>"]
+
+[dependencies]
+ggez = "0.4"
+mursten = { git="https://github.com/teglvaerk/mursten" }
+nalgebra = "0.16"
